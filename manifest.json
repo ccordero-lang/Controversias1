@@ -1,0 +1,18 @@
+{
+    "name": "Seguimiento de Controversias",
+    "short_name": "Controversias",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display":"standalone",
+    "orientation":"portrait",
+    "scope":"./",
+    "start_url":"./",
+    "icons":[
+        {
+            "src":"./img/logo.jpeg",
+            "type":"image/jpeg",
+            "sizes":"400x400"
+        }
+    ]
+
+}
